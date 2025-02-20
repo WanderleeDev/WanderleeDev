@@ -1,4 +1,4 @@
-<h1 align="center">Wanderlee Max Frontend Developer</h1>
+<h1 align="center">Wanderlee Max</h1>
  
  ###
  
