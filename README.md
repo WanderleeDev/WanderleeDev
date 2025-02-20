@@ -1,13 +1,17 @@
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center">Wanderlee Max Frontend Developer</h1>
+ 
+ ###
+ 
+**🧑‍💻 Who I Am:**
+I am a self-taught web developer, 100% committed to what I do, always seeking to add value and adapt to requirements, as well as support others.
+
+**💼 What I Do:**
+I develop and implement responsive web interfaces from scratch as well as from external designs. Resource optimization for better page performance and load times, as well as SEO for better web positioning.
+
+**🚀 What I Will Do:**
+Currently expanding my knowledge in backend development.
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Wanderlee Max from Peru<br><br>- 🔭 Currently looking for my first job opportunity in programming<br>- 📚 Self-taught programmer.<br>- ⚡ In my free time I like to listen to music and read something light.</p>
-
 
 <a href="https://wanderlee-porfolio-virid.vercel.app/" target="_blank">Check my porfolio</a>
 
@@ -26,19 +30,38 @@
 
 **Frontend**
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 3rem; align-items: center;">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">  
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
+</div>
+
+###
+
+**Backend**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">  
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" />
+</div>
+
+###
+
+**Extra Tools**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">  
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" />
 </div>
 
 ###
