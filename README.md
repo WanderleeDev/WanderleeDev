@@ -13,7 +13,10 @@ Currently expanding my knowledge in backend development.
 
 ###
 
-<a href="https://wanderlee-porfolio-virid.vercel.app/" target="_blank">Check my porfolio</a>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-%23563D7C.svg?style=for-the-badge&logo=files&logoColor=white)](https://wanderlee-porfolio-virid.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanderleedev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanderlee-max)
 
 
 ###
@@ -24,7 +27,7 @@ Currently expanding my knowledge in backend development.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -66,7 +69,7 @@ Currently expanding my knowledge in backend development.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -79,15 +82,6 @@ Currently expanding my knowledge in backend development.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WanderleeDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WanderleeDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wanderlee-max/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
