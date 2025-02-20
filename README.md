@@ -34,18 +34,18 @@ Currently expanding my knowledge in backend development.
 **Frontend**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="40" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
 </div>
 
 ###
