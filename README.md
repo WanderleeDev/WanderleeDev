@@ -19,13 +19,13 @@
   </div>
 
   <div align="center">
-    <a href="https://porfolio-2025-seven.vercel.app/">
+    <a href="https://porfolio-2025-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-Visit_Site-563D7C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://github.com/WanderleeDev">
+    <a href="https://github.com/WanderleeDev" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-WanderleeDev-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/wanderlee-max">
+    <a href="https://linkedin.com/in/wanderlee-max" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
