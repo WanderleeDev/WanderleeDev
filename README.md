@@ -20,7 +20,7 @@
 
   <div align="center">
     <a href="https://porfolio-2025-seven.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-563D7C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://porfolio-2025-seven.vercel.app/" alt="Portfolio"/>
     </a>
     <a href="https://github.com/WanderleeDev" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-WanderleeDev-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
